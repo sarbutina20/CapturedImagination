@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19a02173.css",
+    "main.js": "/static/js/main.b4f89cd6.js",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/cartIcon.png": "/static/media/cartIcon.be827ed812d1bbcf0196.png",
+    "index.html": "/index.html",
+    "main.19a02173.css.map": "/static/css/main.19a02173.css.map",
+    "main.b4f89cd6.js.map": "/static/js/main.b4f89cd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a02173.css",
+    "static/js/main.b4f89cd6.js"
+  ]
+}
