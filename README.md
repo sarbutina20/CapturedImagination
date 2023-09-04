@@ -15,6 +15,7 @@ Functionalities of the web application include:
 • display of products in the basket with the possibility of increasing or decreasing the specified number  
 of the product, i.e. removing the product from the shopping cart  
 • bill display and bill payment  
+• display of orders
   
 The user interface is a single page application created using React, React-DOM, React Router and Redux. A React application was created with modern approaches to web application development in mind, although React allows a lot of freedom and flexibility. In addition to routing, React Router was also used to protect routes and send requests to the backend server. The simple design is created through CSS using the module approach.  
   
